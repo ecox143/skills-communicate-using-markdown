@@ -8,3 +8,5 @@ This is Emmanuel Testing out the heading fuction
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turn on lights
+- [ ] Start coffee
